@@ -1,7 +1,7 @@
 # CNN-from-scratch
 Convolution Neural Network from scratch using numpy
 
-
+```
 Source Code: Without Using Temporary Variable
 In python programming, there is a simple construct to swap variables. The following code does the same as above but without the use of any temporary variable.
 
@@ -25,3 +25,4 @@ This algorithm works for integers only
 x = x ^ y
 y = x ^ y
 x = x ^ y
+```
